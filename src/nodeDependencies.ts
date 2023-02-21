@@ -92,9 +92,8 @@ export class EntryList implements vscode.TreeDataProvider<EntryItem>
                     "valueList":[
                         "规划中",
                         "开发中",
-                        "交互视觉设计",
-                        "待开发",
-                        "需求评审",
+                        "交互视觉设计123",
+                        "待开发321",
                         "技术评审",
                         "需求设计中"
                     ]

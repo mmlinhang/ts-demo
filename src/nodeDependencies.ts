@@ -83,6 +83,7 @@ export class EntryList implements vscode.TreeDataProvider<EntryItem>
     }
 
     sync_req() {
+        // feature test
         const postData = JSON.stringify({
             "query":[
                 {
